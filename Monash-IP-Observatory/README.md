@@ -6,7 +6,7 @@ _Data curator: simon.angus@monash.edu_
 ## INDEX
 
 ### 1: `ven-2019-07-22_gif.csv`
-Data behind GIF as found in blog post: XXX
+Data behind GIF as found in blog post: [Maduro’s Land of Darkness Redux: Documenting A(nother) National Crisis with Remote, Alternative Data](https://medium.com/insights-monash-university-ip-observatory/maduros-land-of-darkness-redux-documenting-a-nother-national-crisis-with-remote-alternative-8218e4492aa6), Insights@ Monash IP Observatory, 26 July 2019.
 
 #### Data descriptor:
 ```
