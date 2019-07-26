@@ -1,12 +1,11 @@
 # IP Observatory | Open
-=======================
 _Open sourced data from the Monash University IP Observatory, by Monash Soda Labs_
 
-Data curator: simon.angus@monash.edu
+_Data curator: simon.angus@monash.edu_
 
 ## INDEX
 
-### `ven-2019-07-22_gif.csv`
+### 1: `ven-2019-07-22_gif.csv`
 Data behind GIF as found in blog post: XXX
 
 #### Data descriptor:
