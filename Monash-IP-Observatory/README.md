@@ -15,7 +15,7 @@ Data behind GIF as found in blog post: [Deep-Diving Through Iran’s Internet Bl
  * Records: 16,279
 
 #### Data descriptor:
-Format: `<col-name>: <details> [<example>]
+Format: `<col-name>: <details> [<example>]`
 ```
 iso: 3 char country code [IRN]
 id_1: province identifier [1]
@@ -32,7 +32,7 @@ connectivity: index on 0 (effectively offline) .. 100 (normal) to indicate level
 Data behind GIF as found in blog post: [Maduro’s Land of Darkness Redux: Documenting A(nother) National Crisis with Remote, Alternative Data](https://medium.com/insights-monash-university-ip-observatory/maduros-land-of-darkness-redux-documenting-a-nother-national-crisis-with-remote-alternative-8218e4492aa6), Insights@ Monash IP Observatory, 26 July 2019.
 
 #### Data descriptor:
-Format: `<col-name>: <details> [<example>]
+Format: `<col-name>: <details> [<example>]`
 ```
 iso: 3 char country code [VEN]
 id_1: state identifier [2]
