@@ -1,5 +1,5 @@
 # IP Observatory | Open
-_Open sourced data from the Monash University IP Observatory, by Monash Soda Labs_
+_Open sourced data from the Monash University IP Observatory **@IP_Observatory** (https://ip-observatory.org), by Monash Business School's Soda Laboratories (https://sodalabs.io)_
 
 _Data curator: simon.angus@monash.edu_
 
