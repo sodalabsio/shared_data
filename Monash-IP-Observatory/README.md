@@ -5,6 +5,31 @@ _Data curator: simon.angus@monash.edu_
 
 ## INDEX
 
+### 3: `usa-2020-08-29_HurrLaura.csv`
+Data on ICT connectivity impact of Hurricane Laura as given in: [Real-time Mapping of Hurricane Laura’s Impact on Internet Infrastructure](https://medium.com/insights-monash-university-ip-observatory/real-time-mapping-of-hurricane-lauras-impact-on-internet-infrastructure-9584162885ab), Insights@ Monash IP Observatory, 28 Aug 2020.
+
+Data up to timestamp: 2020-Aug-28 16:00 CDT
+ * Number of unique provinces (states) (`name_1`): 4
+ * Number of unique counties (`name_2`): 200
+ * Temporal range: `24-Aug-2020 00:00:00` to `28-Aug-2020 21:00:00`  UTC
+ * Atomic temporal aggregation: hourly
+ * Atomic spatial aggregation: counties
+ * Records: 25,488
+ 
+#### Data descriptor:
+Format: `<col-name>: <details> [<example>]`
+```
+time_e_utc
+time_e_utc_str
+connectivity: index on 0 (effectively offline) .. 10 (normal) to indicate level of internet activity in that location [10]
+iso: 3 char country code [USA]
+name_1: state name [Louisiana]
+name_2: county name [Acadia]
+lat: county latitude centroid location [30.227608]
+lon: county longitude centroid location [-92.490875]
+(25488 records)
+```
+
 ### 2: `irn-2019-11-11_gif.csv`
 Data behind GIF as found in blog post: [Deep-Diving Through Iran’s Internet Blackout](https://medium.com/insights-monash-university-ip-observatory/deep-diving-through-irans-internet-blackout-b72034668028), Insights@ Monash IP Observatory, 20 Nov 2019.
  * Number of unique provinces (states) (`name_1`): 30
