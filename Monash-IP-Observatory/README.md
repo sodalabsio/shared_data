@@ -19,8 +19,8 @@ Data up to timestamp: 2020-Aug-28 16:00 CDT
 #### Data descriptor:
 Format: `<col-name>: <details> [<example>]`
 ```
-time_e_utc
-time_e_utc_str
+time_e_utc: timestamp, Epoch format, UTC [1598227200]
+time_e_utc_str: timestamp, string form UTC [24-Aug-2020 00:00:00]
 connectivity: index on 0 (effectively offline) .. 10 (normal) to indicate level of internet activity in that location [10]
 iso: 3 char country code [USA]
 name_1: state name [Louisiana]
