@@ -6,7 +6,7 @@ _Data curator: simon.angus@monash.edu_
 ## INDEX
 
 ### 4: `mmr-2021-04-09_Bago.csv`
-Underlying raw observations of IPs at Bago city, Bago, Myanmar around the Bago Massacre, 9 April 2021 as described in: [Myanmar's Military Massacre in Bago: Hour by Hour Internet Access Measurement](link), Insights@ Monash IP Observatory, 1 Sep 2021.
+Underlying raw observations of IPs at Bago city, Bago, Myanmar around the Bago Massacre, 9 April 2021 as described in: [Myanmar's Military Massacre in Bago: Hour by Hour Internet Access Measurement](https://medium.com/insights-monash-university-ip-observatory/myanmars-military-massacre-in-bago-hour-by-hour-internet-access-measurement-d72e0e801550), Insights@ Monash IP Observatory, 1 Sep 2021.
 
 Data overview:
  * Number of unique provinces (states) (`name_1`): 1
