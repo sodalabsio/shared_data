@@ -5,6 +5,31 @@ _Data curator: simon.angus@monash.edu_
 
 ## INDEX
 
+### 5: `ukr-2022-01-18_border-regions.csv`
+Latency index measurements, at 3-hourly frequency, for border regions (and Kiev, Ukraine), between UKR and RUS, over Dec 2021 -- Jan 2022 as described in: (forthcoming), Insights@ Monash IP Observatory, 18 Jan 2022.
+
+Data overview:
+ * Number of unique regions (`adm1_name`): 10
+ * Temporal range: `01-Dec-2021 06:00:00` to `17-Jan-2022 23:00:00`  (local time, GMT +2H (UKR), or +3H (RUS))
+ * Atomic aggregation: adm1 regions
+ * Records: 3,830
+
+#### Data descriptor:
+Format: `<col-name>: <details> [<example>]`
+```
+country_iso_three_char_code: 3 char country code [UKR]
+country_iso_name: country name [Ukraine]
+adm1_name: region name [Kiev City]
+adm1_unique_identifier: unique region identifier [UKR-11]
+timezone_offset: GMT offset applied, hours [2]
+timezone_name: timezone name [Europe/Kiev]
+time_local: local time [01-Dec-2021 05:00:00]
+latency_indx: latency index value [103.7]
+(3830 records)
+```
+Note: LATENCY INDEX gives a comparison to a baseline level of latency, i.e. responsiveness of an Internet address, measured at fixed broadband connections in the region indicated. A value of 100 represents the recent long-run average.
+
+
 ### 4: `mmr-2021-04-09_Bago.csv`
 Underlying raw observations of IPs at Bago city, Bago, Myanmar around the Bago Massacre, 9 April 2021 as described in: [Myanmar's Military Massacre in Bago: Hour by Hour Internet Access Measurement](https://medium.com/insights-monash-university-ip-observatory/myanmars-military-massacre-in-bago-hour-by-hour-internet-access-measurement-d72e0e801550), Insights@ Monash IP Observatory, 1 Sep 2021.
 
