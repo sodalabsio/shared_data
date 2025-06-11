@@ -6,7 +6,7 @@ _Data curator: simon.angus@monash.edu_
 ## INDEX
 
 ### 5: `ukr-2022-01-18_border-regions.csv`
-Latency index measurements, at 3-hourly frequency, for border regions (and Kiev, Ukraine), between UKR and RUS, over Dec 2021 -- Jan 2022 as described in: (forthcoming), Insights@ Monash IP Observatory, 18 Jan 2022.
+Latency index measurements, at 3-hourly frequency, for border regions (and Kiev, Ukraine), between UKR and RUS, over Dec 2021 -- Jan 2022 as described in: [The Digital Tremors of the Russia-Ukraine Conflict](https://medium.com/insights-monash-university-ip-observatory/the-digital-tremors-of-the-russia-ukraine-conflict-5d957ef24d5b), Insights@ Monash IP Observatory, 18 Jan 2022.
 
 Data overview:
  * Number of unique regions (`adm1_name`): 10
